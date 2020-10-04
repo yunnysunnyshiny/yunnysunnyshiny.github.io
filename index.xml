@@ -22,7 +22,12 @@
       <pubDate>Sun, 04 Oct 2020 05:25:37 +0900</pubDate>
       
       <guid>https://yunnysunnyshiny.github.io/post/my-first-post/</guid>
-      <description>hello! This is my first post 첫 포스트 입니다!</description>
+      <description>&lt;p&gt;hello!
+This is my first post
+첫 포스트 입니다!&lt;/p&gt;
+&lt;p&gt;만나서 반갑습니다!
+다들 건강하세요&lt;/p&gt;
+&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
