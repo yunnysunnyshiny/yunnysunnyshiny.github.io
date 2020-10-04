@@ -6,5 +6,23 @@
     <description>Recent content on yunnysunnyshiny</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://yunnysunnyshiny.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://yunnysunnyshiny.github.io/about/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yunnysunnyshiny.github.io/about/</guid>
+      <description>Yunny makes use of a variety of open source projects including:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yunnysunnyshiny.github.io/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yunnysunnyshiny.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
