@@ -5,7 +5,8 @@
     <link>https://yunnysunnyshiny.github.io/</link>
     <description>Recent content on yunnysunnyshiny</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://yunnysunnyshiny.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Oct 2020 05:25:37 +0900</lastBuildDate><atom:link href="https://yunnysunnyshiny.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://yunnysunnyshiny.github.io/about/</link>
@@ -13,6 +14,15 @@
       
       <guid>https://yunnysunnyshiny.github.io/about/</guid>
       <description>Yunny&amp;rsquo;s Sunny and Shiny days! 현재 블로그 준비 중! Hello!</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://yunnysunnyshiny.github.io/posts/my-first-post/</link>
+      <pubDate>Sun, 04 Oct 2020 05:25:37 +0900</pubDate>
+      
+      <guid>https://yunnysunnyshiny.github.io/posts/my-first-post/</guid>
+      <description>hello! This is my first post 첫 포스트 입니다!</description>
     </item>
     
     <item>
